@@ -58,16 +58,6 @@ Industry frameworks and how they map to real architecture decisions.
 | [MITRE ATT&CK](frameworks/mitre-attack.md) | Adversary tactics and techniques — the defender's playbook |
 | [Zero Trust Architecture (NIST 800-207)](frameworks/zero-trust-architecture-nist-800-207.md) | The formal ZTA reference architecture |
 
-## Interview Prep
-
-Targeted preparation for security architect role interviews.
-
-| Resource | Description |
-|----------|-------------|
-| [Architect Role Overview](interview-prep/architect-role-overview.md) | What the role actually involves and what's expected |
-| [Question Bank](interview-prep/question-bank.md) | 50+ interview questions with strong answers |
-| [Scenario-Based Questions](interview-prep/scenario-based-questions.md) | "Design a secure ___" walkthroughs |
-| [Whiteboard Exercises](interview-prep/whiteboard-exercises.md) | Architecture diagramming challenges |
 
 ## Templates
 
