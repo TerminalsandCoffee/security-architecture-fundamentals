@@ -32,6 +32,10 @@ Core security architecture concepts every practitioner needs to know.
 | [Data Protection](fundamentals/data-protection.md) | Encryption, classification, and data lifecycle |
 | [Logging & Monitoring](fundamentals/logging-and-monitoring.md) | Visibility, detection, and audit trails |
 | [Incident Response Architecture](fundamentals/incident-response-architecture.md) | Designing systems that support fast response |
+| [API Security](fundamentals/api-security.md) | Securing APIs — OWASP Top 10, gateways, and authentication patterns |
+| [Security Automation & Orchestration](fundamentals/security-automation-and-orchestration.md) | SOAR, IaC security, CI/CD pipelines, and detection-as-code |
+| [Vendor Risk Management](fundamentals/vendor-risk-management.md) | Third-party risk lifecycle — assess, contract, monitor |
+| [Security Policy Development](fundamentals/security-policy-development.md) | Policy hierarchy, governance, and writing enforceable policies |
 
 ## Cloud Security
 
@@ -57,6 +61,7 @@ Industry frameworks and how they map to real architecture decisions.
 | [CIS Controls](frameworks/cis-controls.md) | Prioritized security actions that work |
 | [MITRE ATT&CK](frameworks/mitre-attack.md) | Adversary tactics and techniques — the defender's playbook |
 | [Zero Trust Architecture (NIST 800-207)](frameworks/zero-trust-architecture-nist-800-207.md) | The formal ZTA reference architecture |
+| [ISO 27001 / 27002](frameworks/iso-27001-27002.md) | International ISMS standard — certification, controls, and PDCA |
 
 
 ## Templates
